@@ -1,0 +1,138 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    background-color: #F5F5F5;
+    font-family: Fira-S;
+    
+}
+main{
+    margin: 0 160px;
+}
+
+.pillar-holder{
+
+    /* padding: 50px; */
+    margin: 120px 0px;
+}
+
+.pillar-heading{
+    padding: 20px 0;
+    font-size: 40px;
+}
+
+.pillar-title{
+color: #0E0E0E;
+}
+
+.pillars{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.pillar{
+    max-width: 300px;
+    max-height: 244px;
+    padding: 10px;
+    background-color: white;
+    box-shadow: 1px 0px 1px 1px rgba(0, 0, 0, 0.185);
+    border-radius: 10px;
+}
+
+.icon{
+    padding: 10px;
+}
+
+.pillar-title{
+    padding: 10px;
+}
+
+.pillar-description{
+    padding: 10px;
+    color: #0e0e0eaf;
+}
+
+.future{
+margin-bottom: 50px;
+}
+
+.future-title{
+    padding: 5px 0px;
+}
+
+.future-intro{
+    padding: 10px 0px;
+    color: #0e0e0eaf;
+}
+
+.visions{
+    display: flex;
+    justify-content: space-between;
+    gap: 15px; 
+}
+
+.vision{
+    max-width: 410px;
+    padding: 15px ;
+    border-radius: 10px;
+}
+
+.vision-blue{
+    background-color: #D5E1F5;
+}
+
+.vision-green{
+    background-color: #C6E4D6;
+}
+
+.vision-yello{
+    background-color: #F7EBCF;
+}
+
+.vision-title{
+    padding: 10px 0px;
+}
+
+.vision-description{
+    padding: 10px 0px;
+    color: #5d626d;
+}
+
+.blue-btn{
+    background-color: #5490F5;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+}
+
+.green-btn{
+    background-color: #09A15C;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+
+}
+
+.yello-butn{
+    background-color: #FFC239;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-weight: bold;
+}
