@@ -138,3 +138,88 @@ margin-bottom: 50px;
     padding: 10px 15px;
     font-weight: bold;
 }
+
+.yunus-holder{
+    
+    padding: 25px 15px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.yunus{
+    background-image: url(/media/assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+}
+
+.bd-description
+{
+    padding: 26px 0px;
+    color: #444649 ;
+}
+
+.yunus-title{
+    padding: 5px 0px;
+    color: #444649 ;
+}
+
+.opinion-title{
+    padding: 10px 0px;
+}
+
+.openions{
+    background-color: white;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.openion-heading{
+    display: flex;
+    justify-content: space-between;
+    background-color: #C6E4D6;
+    padding: 20px;
+    border: 1px solid gray;
+}
+
+/* .openion{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px ;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+.open-quistion{
+    border-right: 1px solid gray;
+}
+ */
+
+ table{
+    width: 100%;
+    border-collapse: collapse;
+ }
+
+ thead > tr >td {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ td{
+    padding: 20px;
+    border: 1px solid gray;
+ }
+
+ .select{
+    padding: 10px;
+    text-align: center;
+    background-color:#C6E4D6;
+    border-radius: 5px;
+    border: 1px solid black;
+ }
+
+.center{
+    text-align: center;
+}

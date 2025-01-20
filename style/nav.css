@@ -60,28 +60,3 @@ nav{
     border-radius: 5px;
 }
 
-.yunus-holder{
-    
-    padding: 25px 15px;
-    margin-bottom: 50px;
-    background-color: white;
-    border-radius: 10px;
-
-}
-
-.yunus{
-    background-image: url(/media/assets/quote-bg.png);
-    background-repeat: no-repeat;
-    background-position: top left;
-}
-
-.bd-description
-{
-    padding: 26px 0px;
-    color: #444649 ;
-}
-
-.yunus-title{
-    padding: 5px 0px;
-    color: #444649 ;
-}
